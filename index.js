@@ -10,9 +10,7 @@ class XMod {
     EmbedJsonParser(json)
   }
 
-  userTemplate(value, { userTemplate }) {
-    userTemplate(value, { userTemplate })
-  }
+
 }
 
 
@@ -20,8 +18,3 @@ module.exports = {
   XMod
 };
 
-const { userTemplate } = new XMod()
-
-userTemplate('interaction', {
-  userTemplate: ''
-})
