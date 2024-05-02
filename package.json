@@ -1,0 +1,13 @@
+{
+  "name": "@systxd/x-mod",
+  "description": "systXd",
+  "version": "0.0.4",
+  "main": "./src/index.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
